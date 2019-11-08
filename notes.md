@@ -16,7 +16,7 @@ We perceive objects via its features.
 
 | Illusory Conjunction Demonstration                           |                                                |
 | ------------------------------------------------------------ | ---------------------------------------------- |
-| **Method: ** of 2 different tasks:<br />1.) answer some question about the outer 2 numbers (e.g. are they both odd?)<br />2.) after task 1, without looking back at the figure, recall what letters and bars were in the middle<br /><br />**Result: ** participants reported seeing letters that weren't there, but that could be compositions of other letters that *were* present (e.g. P + Q = R) with a higher probability than chance<br /><br />**Conclusion: **Participants incorrectly bound features to objects. e.g. bound the diagonal line from a Q to a P to produce an R. This effect is called *Illusory Conjunction* | ![1573136470396](notes_imgs/1573136470396.png) |
+| **Method:** of 2 different tasks:<br />1.) answer some question about the outer 2 numbers (e.g. are they both odd?)<br />2.) after task 1, without looking back at the figure, recall what letters and bars were in the middle<br /><br />**Result:** participants reported seeing letters that weren't there, but that could be compositions of other letters that *were* present (e.g. P + Q = R) with a higher probability than chance<br /><br />**Conclusion: **Participants incorrectly bound features to objects. e.g. bound the diagonal line from a Q to a P to produce an R. This effect is called *Illusory Conjunction* | ![1573136470396](notes_imgs/1573136470396.png) |
 
 <font size="-1" style="color:#777799">*from this, researched assumed that there is some attention the visual system needs to use to keep these features bound to the right objects. This theory was later dropped*</font>
 
@@ -32,7 +32,7 @@ We perceive objects via its features.
 
 | Attention and Shrinking Receptive Fields                     |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Method: **monkey fixes on a point. 2 peripheral stimuli are presented simultaneously, one of which was cued. Responding to the cued stimulus will result in a reward (the cue's accuracy is 100%).Additionally, a probe is inserted into area V4, which records a certain group of neurons responsible for perceiving a certain feature (e.g. vertical lines).One stimulus contains this feature to a higher extent ("effective/preferred stimulus") than the other stimulus ("ineffective/poor").<br /><br />**Result: **monkey learns the connection between the cue and the target stimulus. The resulting graph is a histogram, where x=timestamp and y=firing rate. The graph shows that, when the monkey pays attention to a cued stimulus, the neurons fire as if the unattended stimulus basically isn't there.<br /><br />**Conclusion:** Attention provides a possible solution to the binding problem, by shrinking/focussing the receptive field. This affect of attention on the receptive field is done by higher level regions in the visual system, which provide feedback to V4 after receiving a cue. Depending on what the receptive field shrinks around, the features present in new field will be different. These features, together with the knowledge of what the attention is directed to, allow the brain to infer which features belong to what object. | ![1573139362992](notes_imgs/1573139362992.png)![1573141548599](notes_imgs/1573141548599.png)![1573214017070](notes_imgs/1573214017070.png) |
+| **Method:** monkey fixes on a point. 2 peripheral stimuli are presented simultaneously, one of which was cued. Responding to the cued stimulus will result in a reward (the cue's accuracy is 100%).Additionally, a probe is inserted into area V4, which records a certain group of neurons responsible for perceiving a certain feature (e.g. vertical lines).One stimulus contains this feature to a higher extent ("effective/preferred stimulus") than the other stimulus ("ineffective/poor").<br /><br />**Result:** monkey learns the connection between the cue and the target stimulus. The resulting graph is a histogram, where x=timestamp and y=firing rate. The graph shows that, when the monkey pays attention to a cued stimulus, the neurons fire as if the unattended stimulus basically isn't there.<br /><br />**Conclusion:** Attention provides a possible solution to the binding problem, by shrinking/focussing the receptive field. This affect of attention on the receptive field is done by higher level regions in the visual system, which provide feedback to V4 after receiving a cue. Depending on what the receptive field shrinks around, the features present in new field will be different. These features, together with the knowledge of what the attention is directed to, allow the brain to infer which features belong to what object. | ![1573139362992](notes_imgs/1573139362992.png)![1573141548599](notes_imgs/1573141548599.png)![1573214017070](notes_imgs/1573214017070.png) |
 
 
 
@@ -96,7 +96,7 @@ Attention is a broad term, so a clear distinction between it and other terms mus
 
 **Endogenous attention** applies to situations where a subject voluntarily directs their attention towards stimulus, usually by interpreting a cue (such as an arrow). If the cue provides no information (i.e. a neutral cue), there is no change in behaviour.
 
-| f                         | f                                                            |
+|                          |                                                             |
 | ------------------------- | ------------------------------------------------------------ |
 | ![image](notes_imgs/l1s7.PNG) | **Method:** The subject's gaze is fixed on a central point. They're presented with a valid, invalid or neutral, position related cue. <br />The subject has to indicate that the target appeared when it does, regardless of the cue. <br /><br />**Result:** Subjects are faster to respond to validly cued targets than invalidly queued ones, with the response time of neutrally cued targets <br />being in the middle. The effect of the queue lasts from 300 milliseconds to several seconds. |
 
@@ -104,7 +104,7 @@ Attention is a broad term, so a clear distinction between it and other terms mus
 
 **Exogenous attention** applies to situations where attention is reflexively directed towards a stimulus. Such as when a loud sound is heard.
 
-| f                         | f                                                            |
+|                          |                                                             |
 | ------------------------- | ------------------------------------------------------------ |
 | ![image](notes_imgs/l1s8.PNG) | **Method:** Subjects are presented with a sensory cue (e.g. a flash of light) at a particular location shortly before the target stimulus is presented in either that location or elsewhere. <br /><br />**Result:** Reaction time increases when presented with a valid cue shortly before the target stimulus (green area). When increasing the interval, however, the response time for validly cued targets<br /> decreases. This is due to something known as inhibition of return (after Klein, 2000). |
 
@@ -112,14 +112,9 @@ Attention is a broad term, so a clear distinction between it and other terms mus
 
 ## Neuroscience Approach to Studying Attention
 
-Cognitive psychologists generally think attention works as in the 3rd model in section ... . When translating this model to a neuroscience framework, attention tends to be approached from two main perspectives:
-
-1. Investigating how the neural processing of stimuli are regulated by attention.
-2. Determining the brain regions that coordinate these regulations (i.e. the higher-level control regulations), and the mechanisms these regions use.
-
 |                             |                                                              |
 | --------------------------- | ------------------------------------------------------------ |
-| ![image](notes_imgs/l1s9_2.PNG) | ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo |
+| ![image](notes_imgs/l1s9_2.PNG) | Cognitive psychologists generally think attention works like the model to the left. When translating this model to a neuroscience framework, attention tends to be approached from two main perspectives:<br /><br />1.) Investigating how the neural processing of stimuli are regulated by attention.<br />2.) Determining the brain regions that coordinate these regulations (i.e. the higher-level control regulations), and the mechanisms these regions use. |
 
 **What we know about perspective 1:** Attentional regulation should be reflected by changes in neural activity. For sensory systems, this would be in the thick yellow arrows in the right-hand figure. However, studies measuring behaviour performance (e.g. reaction time or accuracy) w.r.t. attention always depend on indirect approaches. Although, our ability to measure brain activity (while the subject is performing a task) has rapidly evolved in recent years. These developments can reveal much about neurobiological mechanisms of attentional effects on stimulus processing.
 
