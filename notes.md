@@ -2,8 +2,6 @@
 <font size="-1" style="color:#777799"></font>
 ```
 
-
-
 # 1. Attention by Biased Competition
 
 ## Cocktail Party Effect
@@ -136,7 +134,7 @@ We perceive objects via its features.
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Method:** monkey fixes on a point. 2 peripheral stimuli are presented simultaneously, one of which was cued. Responding to the cued stimulus will result in a reward (the cue's accuracy is 100%).Additionally, a probe is inserted into area V4, which records a certain group of neurons responsible for perceiving a certain feature (e.g. vertical lines).One stimulus contains this feature to a higher extent ("effective/preferred stimulus") than the other stimulus ("ineffective/poor").<br /><br />**Result:** monkey learns the connection between the cue and the target stimulus. The resulting graph is a histogram, where x=timestamp and y=firing rate. The graph shows that, when the monkey pays attention to a cued stimulus, the neurons fire as if the unattended stimulus basically isn't there.<br /><br />**Conclusion:** Attention provides a possible solution to the binding problem, by shrinking/focussing the receptive field. This affect of attention on the receptive field is done by higher level regions in the visual system, which provide feedback to V4 after receiving a cue. Depending on what the receptive field shrinks around, the features present in new field will be different. These features, together with the knowledge of what the attention is directed to, allow the brain to infer which features belong to what object. | ![1573139362992](notes_imgs/1573139362992.png)![1573141548599](notes_imgs/1573141548599.png)![1573214017070](notes_imgs/1573214017070.png) |
 
-**Competition between neurons (Desimone & Duncan):** *Neurons compete with each other, depending on what features are present in the receptive field. If one group of neurons is firing strongly, the others fire less. i.e. **inhibition.** (lateral inhibition or general inhibition?)*
+**Competition between neurons (Desimone & Duncan):** *Neurons compete with each other, depending on what features are present in the receptive field. If one group of neurons is firing strongly, the others fire less. i.e. **inhibition.** (lateral inhibition or general inhibition?)*
 
 Inhibitory neurons are always local. Their signals don't travel very far.
 
